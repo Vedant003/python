@@ -1,7 +1,8 @@
 import plotly.graph_objects as go
 import plotly.offline as pyo
-
-
+#This is Comment
+#Error
+#Error
 categories = ['Damage', 'Fire Rate', 'Range',
               'Recoil', 'Bullet Speed']
 categories = [*categories, categories[0]]
